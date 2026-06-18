@@ -30,7 +30,7 @@ Given any input image, the system automatically produces:
 ![Input Image](screenshots/input_2.png)
 ![Output Analysis](screenshots/output_2.png)
 ![Input Image](screenshots/input_3.png)
-![Output Analysis](screenshots/output_4.png)
+![Output Analysis](screenshots/output_3.png)
 ![Input Image](screenshots/input_4.png)
 ![Output Analysis](screenshots/output_4.png)
 
