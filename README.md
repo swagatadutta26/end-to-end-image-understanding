@@ -25,6 +25,12 @@ Given any input image, the system automatically produces:
 - 🌅 Scene Type: Outdoor
 - 🏷️ Top Classifications: dock/dockage (29.59%), lakeside (22.37%), boathouse (8.01%)
 
+![Input Image](screenshots/input_1.png)
+![Output Analysis](screenshots/output_1.png)
+![Input Image](screenshots/input_2.png)
+![Output Analysis](screenshots/output_2.png)
+![Input Image](screenshots/input_3.png)
+![Output Analysis](screenshots/output_4.png)
 ![Input Image](screenshots/input_4.png)
 ![Output Analysis](screenshots/output_4.png)
 
